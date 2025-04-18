@@ -1,0 +1,151 @@
+
+
+
+2025-03-21 14:47:49
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 128
+d_model: 256
+data_path: SWAT
+dataset: SWAT
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 51
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 51
+patch_size: [3, 5, 7]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 105
+====================  Train  ===================
+
+
+
+2025-03-21 22:34:24
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 128
+d_model: 256
+data_path: SWAT
+dataset: SWAT
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 51
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 51
+patch_size: [3, 5, 7]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 105
+====================  Train  ===================
+
+
+
+2025-03-21 22:38:49
+================ Hyperparameters ===============
+anormly_ratio: 1.0
+batch_size: 128
+d_model: 256
+data_path: SWAT
+dataset: SWAT
+devices: 0,1,2,3
+e_layers: 3
+gpu: 0
+index: 137
+input_c: 51
+k: 3
+loss_fuc: MSE
+lr: 0.0001
+mode: train
+model_save_path: checkpoints
+n_heads: 1
+num_epochs: 3
+output_c: 51
+patch_size: [3, 5, 7]
+rec_timeseries: True
+use_gpu: True
+use_multi_gpu: True
+win_size: 105
+====================  Train  ===================
+test: (449919, 51)
+train: (495000, 51)
+test: (449919, 51)
+train: (495000, 51)
+test: (449919, 51)
+train: (495000, 51)
+test: (449919, 51)
+train: (495000, 51)
+Epoch: 1, Cost time: 1146.001s, Train Loss: 0.000000, Validation Loss: 0.000000
+Epoch: 2, Cost time: 1143.144s, Train Loss: 0.000000, Validation Loss: 0.000000
+Epoch: 3, Cost time: 1141.646s, Train Loss: 0.000000, Validation Loss: 0.000000
+Threshold : 0.08122774958610535
++-----------------------+----------+
+| Metric                |    Score |
++=======================+==========+
+| accuracy              |   0.873  |
++-----------------------+----------+
+| precision             |   0.0098 |
++-----------------------+----------+
+| recall                |   0.117  |
++-----------------------+----------+
+| f1_score              |   0.0181 |
++-----------------------+----------+
+| f1_score_ori          |   0.0181 |
++-----------------------+----------+
+| f05_score_ori         |   0.012  |
++-----------------------+----------+
+| f1_score_pa           |   0.0005 |
++-----------------------+----------+
+| pa_accuracy           |   0.9911 |
++-----------------------+----------+
+| pa_precision          |   0.9311 |
++-----------------------+----------+
+| pa_recall             |   0.9996 |
++-----------------------+----------+
+| pa_f_score            |   0.9642 |
++-----------------------+----------+
+| range_f_score         |   0.0179 |
++-----------------------+----------+
+| f1_score_c            |   0.2136 |
++-----------------------+----------+
+| precision_k           |   0.9311 |
++-----------------------+----------+
+| point_auc             |   0.9655 |
++-----------------------+----------+
+| range_auc             |   0.5101 |
++-----------------------+----------+
+| MCC_score             | nan      |
++-----------------------+----------+
+| Affiliation precision |   0.5218 |
++-----------------------+----------+
+| Affiliation recall    |   0.9804 |
++-----------------------+----------+
+| R_AUC_ROC             |   0.9672 |
++-----------------------+----------+
+| R_AUC_PR              |   0.9414 |
++-----------------------+----------+
+| VUS_ROC               |   0.9708 |
++-----------------------+----------+
+| VUS_PR                |   0.9445 |
++-----------------------+----------+
+
+what exp?
+====================  Test  ===================
