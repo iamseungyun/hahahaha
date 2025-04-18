@@ -1,0 +1,60 @@
+[I 2024-05-09 16:21:02.448 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-05-09 16:21:02.451 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-05-09 16:21:02.453 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-05-09 16:21:02.455 ServerApp] notebook | extension was successfully linked.
+[I 2024-05-09 16:21:02.573 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-05-09 16:21:02.591 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-05-09 16:21:02.592 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-05-09 16:21:02.592 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-05-09 16:21:02.596 LabApp] JupyterLab extension loaded from /home/antonxue/lib/miniconda3/envs/arpro/lib/python3.11/site-packages/jupyterlab
+[I 2024-05-09 16:21:02.596 LabApp] JupyterLab application directory is /home/antonxue/lib/miniconda3/envs/arpro/share/jupyter/lab
+[I 2024-05-09 16:21:02.596 LabApp] Extension Manager is 'pypi'.
+[I 2024-05-09 16:21:02.603 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-05-09 16:21:02.604 ServerApp] notebook | extension was successfully loaded.
+[I 2024-05-09 16:21:02.605 ServerApp] Serving notebooks from local directory: /home/antonxue/foo/arpro/notebooks
+[I 2024-05-09 16:21:02.605 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-05-09 16:21:02.605 ServerApp] http://localhost:7778/tree?token=826a55e9c026aa6084253905862b088f2768f9cb28da46fb
+[I 2024-05-09 16:21:02.605 ServerApp]     http://127.0.0.1:7778/tree?token=826a55e9c026aa6084253905862b088f2768f9cb28da46fb
+[I 2024-05-09 16:21:02.605 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-05-09 16:21:02.608 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-05-09 16:21:02.608 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/antonxue/.local/share/jupyter/runtime/jpserver-4162116-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:7778/tree?token=826a55e9c026aa6084253905862b088f2768f9cb28da46fb
+        http://127.0.0.1:7778/tree?token=826a55e9c026aa6084253905862b088f2768f9cb28da46fb
+[I 2024-05-09 16:21:02.617 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-05-09 16:21:26.697 ServerApp] Creating new notebook in 
+[I 2024-05-09 16:21:27.001 ServerApp] Saving file at /Untitled.ipynb
+[I 2024-05-09 16:21:27.033 ServerApp] Kernel started: 85094aa5-60ac-47c0-ada1-6783a0dac529
+[I 2024-05-09 16:21:27.337 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 16:21:27.416 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 16:21:27.442 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 16:21:27.582 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 16:21:27.797 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 16:23:34.548 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:25:09.943 ServerApp] Kernel restarted: 85094aa5-60ac-47c0-ada1-6783a0dac529
+[I 2024-05-09 16:25:09.998 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 16:25:44.225 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:27:44.495 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:29:44.553 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:31:44.656 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:33:44.775 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:41:44.837 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:49:44.899 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 16:53:44.948 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 17:13:54.698 ServerApp] Kernel restarted: 85094aa5-60ac-47c0-ada1-6783a0dac529
+[I 2024-05-09 17:13:54.746 ServerApp] Connecting to kernel 85094aa5-60ac-47c0-ada1-6783a0dac529.
+[I 2024-05-09 17:15:06.508 ServerApp] Saving file at /diffusion_ts_test.ipynb
+[I 2024-05-09 19:46:49.367 ServerApp] Starting buffering for 85094aa5-60ac-47c0-ada1-6783a0dac529:51fbbe49-3cef-4d93-beb1-dd623f9bfc05
+[I 2024-05-09 19:47:10.529 ServerApp] interrupted
+[I 2024-05-09 19:47:10.530 ServerApp] Serving notebooks from local directory: /home/antonxue/foo/arpro/notebooks
+    1 active kernel
+    Jupyter Server 2.13.0 is running at:
+    http://localhost:7778/tree?token=826a55e9c026aa6084253905862b088f2768f9cb28da46fb
+        http://127.0.0.1:7778/tree?token=826a55e9c026aa6084253905862b088f2768f9cb28da46fb
+Shut down this Jupyter server (y/[n])? [C 2024-05-09 19:47:10.815 ServerApp] received signal 2, stopping
+[I 2024-05-09 19:47:10.816 ServerApp] Shutting down 5 extensions
+[I 2024-05-09 19:47:10.816 ServerApp] Shutting down 1 kernel
+[I 2024-05-09 19:47:10.816 ServerApp] Kernel shutdown: 85094aa5-60ac-47c0-ada1-6783a0dac529
